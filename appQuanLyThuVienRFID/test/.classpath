@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/năm 4/seminar/test/libJavax/comm-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/android/CEAN/SDK_4_7_0/JAVA/WIN32/lib/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="E:/android/CEAN/SDK_4_7_0/JAVA/WIN32/CAENRFIDLibrary.jar"/>
+	<classpathentry kind="lib" path="F:/MySQLConnector/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

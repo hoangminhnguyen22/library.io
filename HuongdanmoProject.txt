@@ -1,0 +1,13 @@
+1. để mở ứng dụng quản lý thư viện, mở ide eclipse và import file test trong folder appQuanLyThuVienRFID
+	cách 1: chạy file giaodienmuonsachRead.java và kết nối với thiết bị
+	cách 2: hoặc chạy file giaodienmuonsach.java khi không có thiết bị kết nối(vì đây là 1 file giả lập các tag trong RFID)
+	cách 3: file kiemtra.java là file không giao diện hiển thị kết quả thông qua console.
+2. cài đặt xampp và import dangnhap.sql trong folder databse vào myphpadmin 
+3. để mở web, 
+	bước 1: mở các ide hỗ trợ như visual code hoặc phpStorm rồi import folder dangnhap trong folder webDangKyMuonSach 
+	bước 2: mở terminal lên gõ dòng lệnh: php artisan serve
+	bước 3: mở trình duyệt và nhập url http://127.0.0.1:8000 
+		hoặc click vào đường link hiển thị ngay dòng: 
+			Starting Laravel development server: http://127.0.0.1:8000
+chân thành cảm ơn thầy đã đọc hướng dẫn sử dụng project của em ạ.
+
